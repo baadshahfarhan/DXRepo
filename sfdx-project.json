@@ -4,18 +4,8 @@
             "path": "unlocked/Monster",
             "default": true,
             "package": "Monster",
-            "versionName": "Version 1",
-            "versionNumber": "1.0.0.0"
-        },
-        {
-            "path": "unlocked/Monster",
-            "package": "cvdc",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": false
+            "versionName": "Version 0.0.0.1",
+            "versionNumber": "0.0.0.1"
         }
-    ],
-    "packageAliases": {
-        "cvdc": "0Ho4W000000wk7USAQ"
-    }
+    ]
 }
