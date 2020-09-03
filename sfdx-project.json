@@ -1,12 +1,7 @@
 {
   "packageDirectories" : [ {
     "path" : "Unlocked/Monster",
-    "default" : false,
-    "package" : "Monster"
-  }, 
-  {
-    "path" : "force-app",
     "default" : true,
-    "package" : "test"
+    "package" : "Monster"
   }]
 }
