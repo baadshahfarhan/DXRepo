@@ -6,6 +6,16 @@
             "package": "Monster",
             "versionName": "Version 0.0.0.1",
             "versionNumber": "0.0.0.1"
+        },
+        {
+            "path": "unlocked/Monster",
+            "package": "sdfdsf",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
-    ]
+    ],
+    "packageAliases": {
+        "sdfdsf": "0Ho4W000000wk7ZSAQ"
+    }
 }
