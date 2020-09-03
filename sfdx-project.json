@@ -1,11 +1,5 @@
 {
   "packageDirectories" : [ {
-    "path" : "force-app",
-    "default" : false,
-    "package" : "PermSetUnlockedPackage",
-    "versionName" : "ver 0.1",
-    "versionNumber" : "0.1.0.NEXT"
-  }, {
     "path" : "Unlocked",
     "default" : true,
     "package" : "ARTest",
