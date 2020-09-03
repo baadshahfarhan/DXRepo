@@ -1,6 +1,6 @@
 {
   "packageDirectories" : [ {
-    "path" : "Unlocked/Monster",
+    "path" : "Monster",
     "default" : true,
     "package" : "Monster",
     "versionName" : "Monster",
