@@ -7,33 +7,9 @@
     "versionNumber" : "0.1.0.NEXT"
   }, {
     "path" : "Unlocked",
-    "default" : false,
+    "default" : true,
     "package" : "ARTest",
     "versionName" : "ARTest",
     "versionNumber" : "1.0.0.0"
-  }, {
-    "path" : "force-app",
-    "default" : false,
-    "package" : "TestPermSetUnlockedPackage",
-    "versionName" : "ver 0.1",
-    "versionNumber" : "0.1.0.NEXT"
-  }, {
-    "path" : "Weather",
-    "default" : true,
-    "package" : "Weather",
-    "versionName" : "Weather",
-    "versionNumber" : "1.0.0.1"
-  }, {
-    "path" : "BLAH123",
-    "default" : false,
-    "package" : "BLAH123",
-    "versionName" : "BLAH123",
-    "versionNumber" : "1.0.0.0"
-  }, {
-    "path" : "CookieStuff",
-    "default" : false,
-    "package" : "CookieStuff",
-    "versionName" : "CookieStuff",
-    "versionNumber" : "1.0.0.0"
-  } ]
+  }]
 }
