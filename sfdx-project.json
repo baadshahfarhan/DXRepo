@@ -1,9 +1,9 @@
 {
   "packageDirectories" : [ {
-    "path" : "Unlocked",
+    "path" : "Unlocked/Monster",
     "default" : true,
-    "package" : "ARTest",
-    "versionName" : "ARTest",
-    "versionNumber" : "1.0.0.0"
+    "package" : "Monster",
+    "versionName" : "Monster",
+    "versionNumber" : "0.0.0.1"
   }]
 }
