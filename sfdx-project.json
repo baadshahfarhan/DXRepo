@@ -1,5 +1,14 @@
 {
     "packageDirectories": [
-
+{
+    "path" : "unlocked/Monster",
+    "default" : true,
+    "package" : "Monster",
+    "versionName" : "Monster",
+    "versionNumber" : "0.0.0.1"
+}
     ]
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "47.0",    
 }
