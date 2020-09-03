@@ -1,7 +1,62 @@
 {
   "packageDirectories" : [ {
-    "path" : "Unlocked/Monster",
+    "path" : "force-app",
+    "default" : false,
+    "package" : "PermSetUnlockedPackage",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "ARTest",
+    "default" : false,
+    "package" : "ARTest",
+    "versionName" : "ARTest",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "force-app",
+    "default" : false,
+    "package" : "TestPermSetUnlockedPackage",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "Weather",
     "default" : true,
-    "package" : "Monster"    
-  }]
+    "package" : "Weather",
+    "versionName" : "Weather",
+    "versionNumber" : "1.0.0.1"
+  }, {
+    "path" : "BLAH123",
+    "default" : false,
+    "package" : "BLAH123",
+    "versionName" : "BLAH123",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "CookieStuff",
+    "default" : false,
+    "package" : "CookieStuff",
+    "versionName" : "CookieStuff",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "47.0",
+  "packageAliases" : {
+    "PermSetUnlockedPackage" : "0Ho6g000000blbJCAQ",
+    "PermSetUnlockedPackage@1.0.0.0" : "04t6g0000087nplAAA",
+    "TestPermSetUnlockedPackage" : "0Ho6g000000blbOCAQ",
+    "TestPermSetUnlockedPackage@1.3.7.1" : "04t6g0000087npqAAA",
+    "TestPermSetUnlockedPackage@2.0.0.0" : "04t6g0000087npvAAA",
+    "CookieStuff" : "0Ho6g000000blbTCAQ",
+    "CookieStuff@1.0.0.0" : "04t6g0000087nq0AAA",
+    "CookieStuff@3.6.3.2" : "04t6g0000087nyAAAQ",
+    "BLAH123" : "0Ho6g000000blbiCAA",
+    "BLAH123@1.0.0.0" : "04t6g0000087nyFAAQ",
+    "BLAH123@2.0.0.0" : "04t6g0000087nyKAAQ",
+    "ARTest" : "0Ho6g000000k9caCAA",
+    "ARTest@1.0.0.0" : "04t6g000008fVUoAAM",
+    "ARTest@1.0.0.5" : "04t6g000008fVgcAAE",
+    "BLAH123@4.5.1.2" : "04t6g000008fVghAAE",
+    "Weather" : "0Ho6g000000k9ckCAA",
+    "Weather@1.0.0.0" : "04t6g000008fVgmAAE",
+    "Weather@1.0.0.1" : "04t6g000008fVgrAAE"
+  }
 }
